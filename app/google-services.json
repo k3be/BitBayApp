@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "160111858100",
+    "firebase_url": "https://bitbay-91de0.firebaseio.com",
+    "project_id": "bitbay-91de0",
+    "storage_bucket": "bitbay-91de0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160111858100:android:7633f9de4ee2edcd",
+        "android_client_info": {
+          "package_name": "com.bitbay.mbart.bitbayapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160111858100-agv205gvivmp96nrq3fal0aqm0edre60.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bitbay.mbart.bitbayapp",
+            "certificate_hash": "871e8c74d1c540f7cf66aacfb6bf1c5bc11b4cfc"
+          }
+        },
+        {
+          "client_id": "160111858100-iu1brtki24re03s57f4gkgh1nqvm8lr6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRNbdYbGxg69YMwr0-DMPVrhw96HBcHSk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "160111858100-iu1brtki24re03s57f4gkgh1nqvm8lr6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      },
+      "admob_app_id": "ca-app-pub-3238620931225368~4562311792"
+    }
+  ],
+  "configuration_version": "1"
+}
